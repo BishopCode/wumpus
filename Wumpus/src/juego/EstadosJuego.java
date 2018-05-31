@@ -1,0 +1,14 @@
+package juego;
+
+public enum EstadosJuego {
+	CHOQUE, 
+	HEDOR,
+	BRISA,
+	BRILLO,
+	GRITO,
+	MUERTOPORWUMPUS,
+	MUERTOPORPOZO,
+	BRISAHEDOR,
+	NORMALIDAD,
+	GANADOR
+}
